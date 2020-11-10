@@ -1,0 +1,25 @@
+_repo: The-Twentieth-Century-Epic_63542
+_version: 0.0.1
+alternative_title: The 20th Century Epic
+creator:
+  author:
+    agent_name: Garnett, Reuben Brodie
+    alias: Garnett, R. B.
+    gutenberg_agent_id: '52500'
+    url: http://www.gutenberg.org/2009/agents/52500
+description: ''
+gutenberg_issued: '2020-10-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63542'
+  lccn: '14003924'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American poetry -- 20th century'
+- !lcc 'PS'
+- GITenberg
+title: The Twentieth Century Epic
+url: http://www.gutenberg.org/ebooks/63542
