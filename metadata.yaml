@@ -1,6 +1,9 @@
 _repo: The-Twentieth-Century-Epic_63542
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: The 20th Century Epic
+covers:
+- cover_type: archival
+  image_path: 63542-h/images/cover.jpg
 creator:
   author:
     agent_name: Garnett, Reuben Brodie
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '52500'
     url: http://www.gutenberg.org/2009/agents/52500
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63542#The-Twentieth-Century-Epic
 gutenberg_issued: '2020-10-24'
 gutenberg_type: Text
 identifiers:
